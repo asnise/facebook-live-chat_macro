@@ -9,8 +9,11 @@
 `npm i node-gyp`\
 `npm i robotjs`
 \
--VideoID \
-![image](https://user-images.githubusercontent.com/55057145/115143433-7cc58480-a071-11eb-935c-94541da91b69.png)\
+<br />
+<br />
+-VideoID 
+<br />
+![image](https://user-images.githubusercontent.com/55057145/115143433-7cc58480-a071-11eb-935c-94541da91b69.png)
 <br />
 -token (จะต้องสร้าง API หรือ แอปขึ้นมาก่อนถึงจะสามารถใช้งาน token ได้)\ 
 https://developers.facebook.com/tools/explorer/
