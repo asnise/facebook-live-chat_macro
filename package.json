@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nattaset Panlek",
+  "license": "ISC",
+  "dependencies": {
+    "eventsource": "^1.1.0",
+    "facebook-sdk": "^0.3.3",
+    "node-gyp": "^8.0.0",
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {},
+  "description": "read live comments for ative Key.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asnise/facebook-live-chat_macro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asnise/facebook-live-chat_macro/issues"
+  },
+  "homepage": "https://github.com/asnise/facebook-live-chat_macro#readme"
+}
